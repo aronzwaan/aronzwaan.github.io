@@ -75,12 +75,6 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
   color: rgb(162, 163, 163);
 }
 
-#person-details {
-  .svg-inline--fa, i {
-    width: 24px;
-  }
-}
-
 #social-icons
 {
     font-size:  1.5em;
@@ -215,6 +209,15 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
   }
   div {
     line-height: 0px;
+  }
+  .svg-inline--fa, i {
+    width: 24px;
+  }
+  .navigation li {
+    padding: 4px;
+  }
+  p {
+    margin-left: 4px;
   }
 }
 
