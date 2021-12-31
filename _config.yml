@@ -1,2 +1,20 @@
+# Site settings
+title: Aron Zwaan
+email: aronzwaan@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+# Sidebar settings
 name: Aron Zwaan
+job: PhD Candidate
+topic: Static Semantics
+affiliation: TU Delft
+
+# Social icons
+linkedin: aron-zwaan-856423100
+github: AZWN
+
+footer: © Taken theme
+
+# Build settings
 markdown: kramdown
