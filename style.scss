@@ -201,7 +201,7 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
   width: 240px;
   color: #eee;
   left: 0;
-  height: 100%;
+  // height: 100%; // creates superfluous scrollbar on small pages
   transition: all .3s;
   .menu {
     li {
