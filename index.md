@@ -4,10 +4,10 @@ title: Home
 permalink: /
 ---
 
-I am a PhD Candidate at the [Programming Language Group](pl.ewi.tudelft.nl) at
-[Delft University of Technology](www.tudelft.nl). My research focusses on
+I am a PhD Candidate at the [Programming Language Group](http://pl.ewi.tudelft.nl) at
+[Delft University of Technology](http://www.tudelft.nl). My research focusses on
 deriving industry-quality type-checkers from declarative type-system
-specifications. I am supervised by [prof.dr. Eelco Visser](eelcovisser.org).
+specifications. I am supervised by [Prof.Dr. Eelco Visser](http://eelcovisser.org).
 
 ### Research
 
@@ -27,7 +27,7 @@ I have been involved in teaching in the following ways:
 - Teaching Assistant at the 2021 edition of the _Compiler Construction_ course.
 
 Moreover, I am looking for a master student to collaborate with. Especially, I
-want to _bootstrap_ [Statix](www.spoofax.dev/references/statix/) (i.e., express
+want to _bootstrap_ [Statix](http://www.spoofax.dev/references/statix/) (i.e., express
 the type system of Statix in Statix itself). That will open up more possibilities
 to develop the language further. In particular, adding parametric polymorphism
 (generics) will be the second part of this thesis project. I expect this project
