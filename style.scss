@@ -268,3 +268,10 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
   max-width: 960px;
   width: 80%;
 }
+
+// https://github.com/FortAwesome/Font-Awesome/issues/541#issuecomment-751271008
+.fa-google-scholar {
+  content: url('img/google-scholar.svg');
+  height: 1em;
+  width: auto;
+}
