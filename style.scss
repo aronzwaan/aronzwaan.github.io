@@ -220,6 +220,10 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
   p {
     margin-left: 4px;
   }
+  a {
+    color: inherit;
+    font-style: italic;
+  }
 }
 
 .menu {
