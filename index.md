@@ -19,6 +19,7 @@ The goal of this work is to develop a framework for incremental type-checkers th
   implementation strategy, such as constraint programming.
 - Minimizes the effort type-checker writers need to incrementalize their type-checkers.
 - Sound and precise
+This work is in collaboration with [Hendrik van Antwerpen](https://hendrik.van-antwerpen.net).
 
 ### Teaching
 
