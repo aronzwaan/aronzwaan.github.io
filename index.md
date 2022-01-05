@@ -18,7 +18,8 @@ The goal of this work is to develop a framework for incremental type-checkers th
 - Type-checker paradigm independent: not bound to a particular type-checker
   implementation strategy, such as constraint programming.
 - Minimizes the effort type-checker writers need to incrementalize their type-checkers.
-- Sound and precise
+- Sound and precise.
+
 This work is in collaboration with [Hendrik van Antwerpen](https://hendrik.van-antwerpen.net).
 
 ### Teaching
