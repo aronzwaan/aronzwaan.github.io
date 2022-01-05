@@ -12,7 +12,7 @@ specifications. I am supervised by [Prof.Dr. Eelco Visser](http://eelcovisser.or
 ### Research
 
 I am currently working on improving the performance of the [concurrent _Statix_
-solver](https://github.com/metaborg/nabl), by making it automatically incremental.
+solver](https://github.com/metaborg/nabl) by making it automatically incremental.
 The goal of this work is to develop a framework for incremental type-checkers that is:
 - Language-independent: supports a wide range of name binding patterns.
 - Type-checker paradigm independent: not bound to a particular type-checker
