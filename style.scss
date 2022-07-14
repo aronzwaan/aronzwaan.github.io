@@ -11,6 +11,8 @@ body
     margin-top: 24px ! important;
     overflow-x: hidden;
     height: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 i, .svg-inline--fa
@@ -47,6 +49,8 @@ th.title {
 .wrapper {
   display: flex;
   min-height: 100%;
+  max-width: 50%;
+  position: relative;
 }
 
 input[data-function*='swipe'] {
@@ -106,7 +110,6 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
 .content {
   flex: 1;
   padding: 0px 30px;
-  transform: translate3d(0,0,0);
   transition: transform .3s;
 
   font-family: "Roboto Condensed", Arial, sans-serif;
@@ -115,6 +118,7 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
   line-height: 1.5em;
   color: #666;
   font-weight: 300;
+  transform: translate3d(240px,0px,0px);
 }
 
 .content hr {
@@ -189,10 +193,6 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
   max-width: 100%;
   margin: 0 0 1rem;
   border-radius: 2px;
-}
-
-.content {
-  transform: translate3d(240px,0px,0px);
 }
 
 .sidebar {
