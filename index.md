@@ -6,9 +6,10 @@ permalink: /
 
 Welcome on my website! I am a PhD Candidate at the
 [Programming Language Group](http://pl.ewi.tudelft.nl) at
-[Delft University of Technology](http://www.tudelft.nl). I was supervised by
-[Prof.Dr. Eelco Visser](http://eelcovisser.org)<sup>♱</sup> and co-supervised by
-[Dr. Casper Bach Poulsen](http://casperbp.net/).
+[Delft University of Technology](http://www.tudelft.nl). Initially being
+supervised by [Prof.Dr. Eelco Visser](http://eelcovisser.org)<sup>♱</sup>, I am
+now superviser by [Prof.Dr. Arie van Deursen](https://avandeursen.com/) and
+co-supervised by [Dr. Casper Bach Poulsen](http://casperbp.net/).
 
 ## Research
 
