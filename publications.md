@@ -19,6 +19,6 @@ _Bachelor Thesis_, Delft University of Technology.
 
 ### Forthcoming
 
-Aron Zwaan, Hendrik van Antwerpen, and Eelco Visser. 2022. Incremental Type-Checking for Free: Using Scope Graphs to Derive Incremental Type-Checkers. Proc. ACM Program. Lang. 6, OOPSLA2, Article 140 (October 2022), 25 pages. [[doi](https://doi.org/10.1145/3563303)].
+Aron Zwaan, Hendrik van Antwerpen, and Eelco Visser. 2022. Incremental Type-Checking for Free: Using Scope Graphs to Derive Incremental Type-Checkers. Proc. ACM Program. Lang. 6, OOPSLA2, Article 140 (October 2022), 25 pages. [[doi](https://doi.org/10.1145/3563303)] [[preprint](/assets/oopsla22.pdf)].
 
 Aron Zwaan. 2022. Specializing Scope Graph Resolution Queries. SLE 2022.
