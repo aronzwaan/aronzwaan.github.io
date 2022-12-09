@@ -19,6 +19,7 @@ operational aspects of [_Statix_](https://github.com/metaborg/nabl), while
 collaborating with others to use typing results of Statix to develop
 language-parametric transformations and editor services.
 
+
 ### Incremental Type Checking
 
 I am currently working on improving the performance of the [concurrent _Statix_
@@ -30,7 +31,9 @@ The goal of this work is to develop a framework for incremental type checkers th
 - Minimizes the effort type-checker writers need to incrementalize their type checkers.
 - Sound and precise.
 
-This work is in collaboration with [Hendrik van Antwerpen](https://hendrik.van-antwerpen.net).
+This work is in collaboration with [Hendrik van Antwerpen](https://hendrik.van-antwerpen.net),
+and has resulted in a publication at [OOPSLA'22](/publications#journal-articles).
+
 
 ### Resolution Query Compilation
 
@@ -38,6 +41,9 @@ A significant part of the runtime of a Statix-based type checker is used for
 name resolution queries (35 - 40%). Therefore, I am researching opportunities
 for specification compile-time optimization of queries that reduce the overhead
 of query resolution when analyzing an object language program.
+
+This research has resulted in a publication at [SLE'22](/publications#conference-papers).
+
 
 ### Reference Retention
 
@@ -49,13 +55,18 @@ language-parametric transformations.
 
 This work is in collaboration with [Daniël Pelsmaeker](https://pelsmaeker.net/).
 
+
 ## Teaching
 
 I have been involved in teaching in the following ways:
 - Teaching Assistant at the 2021 edition of the _Language Engineering Project_ course.
 - Teaching Assistant at the 2021 edition of the _Compiler Construction_ course.
 
-Moreover, starting from november 2023, I am looking for a master student to
+Morover, I am supervising two master theses:
+- Boris Janssen on [_Bootstrapping Statix_](http://pl.ewi.tudelft.nl/master-projects/master/2021/05/15/bootstrapping-and-generics-in-statix/).
+- [Jonathan Brouwer](http://jonathanb.nl) on [_Expressing Dependent Types in Statix_](http://pl.ewi.tudelft.nl/master-projects/master/2022/02/18/dependent-types-in-statix/) (together with [Jesper Cockx](https://jesper.sikanda.be/)).
+
+Moreover, starting from spring 2023, I am looking for a master student to
 collaborate with. Especially, I want add parametric polymorphism and (a limited
 form of) higher-order constraints to [Statix](http://www.spoofax.dev/references/statix/).
 That will significantly improve the user experience of Statix, as it allows
