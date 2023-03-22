@@ -8,7 +8,8 @@ Please find a list of my publications below.
 
 ### Journal Articles
 
-Aron Zwaan, Hendrik van Antwerpen, and Eelco Visser. 2022. Incremental Type-Checking for Free: Using Scope Graphs to Derive Incremental Type-Checkers. Proc. ACM Program. Lang. 6, OOPSLA2, Article 140 (October 2022), 25 pages.
+Aron Zwaan, Hendrik van Antwerpen, and Eelco Visser. 2022. Incremental Type-Checking for Free: Using Scope Graphs to Derive Incremental Type-Checkers.
+ Proc. ACM Program. Lang. 6, OOPSLA2, Article 140 (October 2022), 25 pages.
 [[doi](https://doi.org/10.1145/3563303)]
 [[extended version](/assets/oopsla22-extended.pdf)]
 [[artifact](https://doi.org/10.5281/zenodo.7071393)]
@@ -16,10 +17,23 @@ Aron Zwaan, Hendrik van Antwerpen, and Eelco Visser. 2022. Incremental Type-Chec
 
 ### Conference Papers
 
-Aron Zwaan. 2022. Specializing Scope Graph Resolution Queries. In Proceedings of the 15th ACM SIGPLAN International Conference on Software Language Engineering (SLE ’22), December 06–07, 2022, Auckland, New Zealand. ACM, New York, NY, USA, 13 pages.
+Aron Zwaan. 2022. Specializing Scope Graph Resolution Queries.
+In Proceedings of the 15th ACM SIGPLAN International Conference on Software Language Engineering (SLE ’22), December 06–07, 2022, Auckland, New Zealand.
+ACM, New York, NY, USA, 13 pages.
 [[doi](https://doi.org/10.1145/3567512.3567523)]
 [[artifact](https://doi.org/10.5281/zenodo.7189413)]
 [[slides](/assets/sle22-slides.pdf)].
+
+Aron Zwaan, and Hendrik van Antwerpen. 2023. Scope Graphs: The Story so Far.
+In Eelco Visser Commemorative Symposium (EVCS 2023), April 5, 2023, Delft, Netherlands.
+Open Access Series in Informatics (OASIcs), vol. 109, Schloss Dagstuhl -- Leibniz-Zentrum für Informatik, Dagstuhl, Germany, 13 pages.
+[[doi]](https://doi.org/10.4230/OASIcs.EVCS.2023.32)
+
+Jonathan Brouwer, Jesper Cockx, and Aron Zwaan. 2023. Dependently Typed Languages in Statix.
+In Eelco Visser Commemorative Symposium (EVCS 2023), April 5, 2023, Delft, Netherlands.
+Open Access Series in Informatics (OASIcs), vol. 109, Schloss Dagstuhl -- Leibniz-Zentrum für Informatik, Dagstuhl, Germany, 8 pages.
+[[doi]](https://doi.org/10.4230/OASIcs.EVCS.2023.6)
+
 
 ### Theses
 
