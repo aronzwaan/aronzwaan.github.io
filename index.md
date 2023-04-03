@@ -70,6 +70,8 @@ investigates how to support 'undo' operations efficiently.
 I have been involved in teaching in the following ways:
 - Teaching Assistant at the 2021 edition of the _Language Engineering Project_ course.
 - Teaching Assistant at the 2021 edition of the _Compiler Construction_ course.
+- Supervisor in the 2023 edition of the _Bachelor End Project: Building Type Checkers Using Scope Graphs_ (with [Casper Bach Poulsen](http://casperbp.net/)).
+- Supervisor in the 2023 edition of the _Bachelor End Project: Literature survey on implementation techniques for type systems_ (with [Jesper Cockx](https://jesper.sikanda.be/)).
 
 Morover, I am supervising two master theses:
 - Boris Janssen on [_Bootstrapping Statix_](http://pl.ewi.tudelft.nl/master-projects/master/2021/05/15/bootstrapping-and-generics-in-statix/).
