@@ -56,6 +56,15 @@ language-parametric transformations.
 This work is in collaboration with [Daniël Pelsmaeker](https://pelsmaeker.net/).
 
 
+### Incremental Unification
+
+Many type checkers use constraints on first-order terms to implement type
+inference. It is well-known how to do that efficiently using disjoint-set data
+structures. However, this structure does not admit _incremental_ analysis, as
+it is not possibly to 'undo' constraints (in non-linear order). This project
+investigates how to support 'undo' operations efficiently.
+
+
 ## Teaching
 
 I have been involved in teaching in the following ways:
