@@ -22,17 +22,18 @@ In Proceedings of the 15th ACM SIGPLAN International Conference on Software Lang
 ACM, New York, NY, USA, 13 pages.
 [[doi](https://doi.org/10.1145/3567512.3567523)]
 [[artifact](https://doi.org/10.5281/zenodo.7189413)]
+[[talk](https://youtu.be/gKJ4b-ADCAc)]
 [[slides](/assets/sle22-slides.pdf)].
 
 Jonathan Brouwer, Jesper Cockx, and Aron Zwaan. 2023. _"Dependently Typed Languages in Statix"_.
 In Eelco Visser Commemorative Symposium (EVCS 2023), April 5, 2023, Delft, Netherlands.
 Open Access Series in Informatics (OASIcs), vol. 109, Schloss Dagstuhl -- Leibniz-Zentrum für Informatik, Dagstuhl, Germany, 8 pages.
-[[doi]](https://doi.org/10.4230/OASIcs.EVCS.2023.6).
+[[doi](https://doi.org/10.4230/OASIcs.EVCS.2023.6)].
 
 Aron Zwaan, and Hendrik van Antwerpen. 2023. _"Scope Graphs: The Story so Far"_.
 In Eelco Visser Commemorative Symposium (EVCS 2023), April 5, 2023, Delft, Netherlands.
 Open Access Series in Informatics (OASIcs), vol. 109, Schloss Dagstuhl -- Leibniz-Zentrum für Informatik, Dagstuhl, Germany, 13 pages.
-[[doi]](https://doi.org/10.4230/OASIcs.EVCS.2023.32)
+[[doi](https://doi.org/10.4230/OASIcs.EVCS.2023.32)]
 [[slides](/assets/evcs-slides.pdf)].
 
 
