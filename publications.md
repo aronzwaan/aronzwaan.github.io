@@ -13,6 +13,7 @@ Aron Zwaan, Hendrik van Antwerpen, and Eelco Visser. 2022. _"Incremental Type-Ch
 [[doi](https://doi.org/10.1145/3563303)]
 [[extended version](/assets/oopsla22-extended.pdf)]
 [[artifact](https://doi.org/10.5281/zenodo.7071393)]
+[[talk](https://youtu.be/5b7gslogdww)]
 [[slides](/assets/oopsla22-slides.pdf)].
 
 ### Conference Papers
