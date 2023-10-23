@@ -37,6 +37,12 @@ Open Access Series in Informatics (OASIcs), vol. 109, Schloss Dagstuhl -- Leibni
 [[doi](https://doi.org/10.4230/OASIcs.EVCS.2023.32)]
 [[slides](/assets/evcs-slides.pdf)].
 
+Casper Bach Poulsen, Aron Zwaan, and Paul Hübner. 2023. _"A Monadic Framework for Name Resolution in Multi-phased Type Checkers"_.
+In Proceedings of the 22nd ACM SIGPLAN International Conference on Generative Programming: Concepts and Experiences (GPCE 2023).
+Association for Computing Machinery, New York, NY, USA, 14–28.
+[[doi](https://doi.org/10.1145/3624007.3624051)]
+[[artifact](https://doi.org/10.5281/zenodo.8337245)].
+
 
 ### Theses
 
