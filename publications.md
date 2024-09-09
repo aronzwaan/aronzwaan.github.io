@@ -43,6 +43,19 @@ Association for Computing Machinery, New York, NY, USA, 14–28.
 [[doi](https://doi.org/10.1145/3624007.3624051)]
 [[artifact](https://doi.org/10.5281/zenodo.8337245)].
 
+Casper Bach Poulsen, Aron Zwaan, and Paul Hübner. 2023. _"A Monadic Framework for Name Resolution in Multi-phased Type Checkers"_.
+In Proceedings of the 22nd ACM SIGPLAN International Conference on Generative Programming: Concepts and Experiences (GPCE 2023).
+Association for Computing Machinery, New York, NY, USA, 14–28.
+[[doi](https://doi.org/10.1145/3624007.3624051)]
+[[artifact](https://doi.org/10.5281/zenodo.8337245)].
+
+Aron Zwaan, and Casper Bach Poulsen. 2024. _"Defining Name Accessibility using Scope Graphs"_.
+In Proceedings of the 38th European Conference on Object-Oriented Programming (ECOOP 2024), September 16-20, 2024, Vienna, Austria.
+Leibniz International Proceedings in Informatics (LIPIcs), Volume 313, Article No. 31; pp. 31:1–31:50
+[[doi](https://doi.org/10.4230/LIPIcs.ECOOP.2024.31)]
+[[extended version](https://doi.org/10.48550/arXiv.2407.09320)]
+[[artifact](https://doi.org/10.5281/zenodo.11179594)].
+
 
 ### Theses
 
