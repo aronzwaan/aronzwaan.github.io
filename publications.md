@@ -51,8 +51,8 @@ Association for Computing Machinery, New York, NY, USA, 14–28.
 
 Aron Zwaan, and Casper Bach Poulsen. 2024. _"Defining Name Accessibility using Scope Graphs"_.
 In Proceedings of the 38th European Conference on Object-Oriented Programming (ECOOP 2024), September 16-20, 2024, Vienna, Austria.
-Leibniz International Proceedings in Informatics (LIPIcs), Volume 313, Article No. 31; pp. 31:1–31:50
-[[doi](https://doi.org/10.4230/LIPIcs.ECOOP.2024.31)]
+Leibniz International Proceedings in Informatics (LIPIcs), Volume 313, Article No. 47; pp. 47:1–31:29
+[[doi](https://doi.org/10.4230/LIPIcs.ECOOP.2024.47)]
 [[extended version](https://doi.org/10.48550/arXiv.2407.09320)]
 [[artifact](https://doi.org/10.5281/zenodo.11179594)].
 
