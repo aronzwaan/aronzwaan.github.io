@@ -76,7 +76,9 @@ I have been involved in teaching in the following ways:
 Additionally, I have supervised two master theses:
 - Boris Janssen on [_Bootstrapping Statix_](http://pl.ewi.tudelft.nl/master-projects/master/2021/05/15/bootstrapping-and-generics-in-statix/).
 - [Jonathan Brouwer](http://jonathanb.nl) on [_Expressing Dependent Types in Statix_](http://pl.ewi.tudelft.nl/master-projects/master/2022/02/18/dependent-types-in-statix/) (together with [Jesper Cockx](https://jesper.sikanda.be/)).
+- Alex Harsani on [Embedding Statix in Agda](https://resolver.tudelft.nl/uuid:8dfeb8f9-4bb3-4f91-8692-b9c9fbb4dadc) (together with [Jesper Cockx](https://jesper.sikanda.be/)).
 
+<!--
 Moreover, starting from spring 2023, I am looking for a master student to
 collaborate with. Especially, I want add parametric polymorphism and (a limited
 form of) higher-order constraints to [Statix](http://www.spoofax.dev/references/statix/).
@@ -84,6 +86,7 @@ That will significantly improve the user experience of Statix, as it allows
 removal of a lot of duplication in language specifications. I expect this project
 to be interesting, varied (involving design, implementation and evaluation) and
 certainly doable.
+-->
 
 ## Contact
 
