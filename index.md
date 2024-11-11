@@ -77,7 +77,7 @@ Additionally, I have supervised two master theses:
 - Boris Janssen on [_Bootstrapping Statix_](http://pl.ewi.tudelft.nl/master-projects/master/2021/05/15/bootstrapping-and-generics-in-statix/).
 - [Jonathan Brouwer](http://jonathanb.nl) on [_Expressing Dependent Types in Statix_](http://pl.ewi.tudelft.nl/master-projects/master/2022/02/18/dependent-types-in-statix/) (together with [Jesper Cockx](https://jesper.sikanda.be/)).
 - Alex Harsani on [Embedding Statix in Agda](https://resolver.tudelft.nl/uuid:8dfeb8f9-4bb3-4f91-8692-b9c9fbb4dadc) (together with [Jesper Cockx](https://jesper.sikanda.be/)).
-- Arthur de Groot on A Bottom-Up Name Resolution Algorithm for Scope Graphs (together with [Jonathan Dönszelmann](https://donsz.nl/) and [Andreaa Costea](https://andrecostea.github.io/)).
+- Arthur de Groot on A Bottom-Up Name Resolution Algorithm for Scope Graphs (together with [Jonathan Dönszelmann](https://donsz.nl/) and [Andreea Costea](https://andrecostea.github.io/)).
 
 <!--
 Moreover, starting from spring 2023, I am looking for a master student to
